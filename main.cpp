@@ -1,7 +1,8 @@
 
-//Source code for the Electric_Field and Magnetic_Field classes
-//
-//
+/*Source code for the Electric_Field and Magnetic_Field classes
+https://www.learncpp.com/cpp-tutorial/destructors/, https://www.w3schools.com/cpp/cpp_constructors.asp?
+https://www.learncpp.com/cpp-tutorial/shallow-vs-deep-copying/, https://www.geeksforgeeks.org/cpp/c-plus-plus/
+AI: Chat GPT, Claude AI*/
 
 #include <iostream>  // For cout and endl
 #include <cmath>     // For sqrt()
